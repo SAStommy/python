@@ -64,4 +64,4 @@
 
 # Week 2
 + **初步暖身**
-  + [mini task 1](
+  + [mini task 1](https://github.com/SAStommy/python/blob/main/mini%20task%201.ipynb)
