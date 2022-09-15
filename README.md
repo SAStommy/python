@@ -66,6 +66,6 @@
 + **初步暖身**
   + [mini task 1](https://github.com/SAStommy/python/blob/main/mini%20task%201.ipynb)
 + 練習題
-  + 1.行車糾紛
+  + [1.行車糾紛](https://github.com/SAStommy/python/blob/main/week2%20%E7%B7%B4%E7%BF%92%E9%A1%8C%201-checkpoint.ipynb)
   + 2.
   + 3.
