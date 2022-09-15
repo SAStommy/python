@@ -63,3 +63,9 @@
 [回目錄](https://github.com/SAStommy/python#目錄)
 
 # Week 2
++ **初步暖身**
+  + [mini task 1](https://github.com/SAStommy/python/blob/main/mini%20task%201.ipynb)
++ 練習題
+  + 1.行車糾紛
+  + 2.
+  + 3.
