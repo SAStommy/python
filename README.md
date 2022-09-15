@@ -63,3 +63,5 @@
 [回目錄](https://github.com/SAStommy/python#目錄)
 
 # Week 2
++ **初步暖身**
+  + [mini task 1](
