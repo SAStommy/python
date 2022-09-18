@@ -29,7 +29,7 @@
 # 課程筆記區
 >+ [**Week 1**](https://github.com/SAStommy/python#Week-1)
 >+ [**Week 2**](https://github.com/SAStommy/python#Week-2)
->+ **Week 3**
+>+ [**Week 3**](https://github.com/SAStommy/python#Week-3)
 >+ **Week 4**
 >+ **Week 5**
 >+ **Week 6**
@@ -72,9 +72,9 @@
 + 練習題
   + [1.行車糾紛](https://github.com/SAStommy/python/blob/main/week2%20%E7%B7%B4%E7%BF%92%E9%A1%8C%201-checkpoint.ipynb)
   + [2.償還債務](https://github.com/SAStommy/python/blob/main/week2%20%E7%B7%B4%E7%BF%92%E9%A1%8C%202.ipynb)
-  + [3.行車糾紛判定]
+  + [3.行車糾紛判定](https://github.com/SAStommy/python/blob/main/week2%20%E7%B7%B4%E7%BF%92%E9%A1%8C%203.ipynb)
   
 [回目錄](https://github.com/SAStommy/python#目錄)
 
-Week 3
+# Week 3
 
