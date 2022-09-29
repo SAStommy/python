@@ -30,7 +30,7 @@
 >+ [**Week 1**](https://github.com/SAStommy/python#Week-1)
 >+ [**Week 2**](https://github.com/SAStommy/python#Week-2)
 >+ [**Week 3**](https://github.com/SAStommy/python#Week-3)
->+ **Week 4**
+>+ [**Week 4**](https://github.com/SAStommy/python#Week-4)
 >+ **Week 5**
 >+ **Week 6**
 >+ **Week 7**
@@ -78,3 +78,15 @@
 
 # Week 3
 
++ **list(變數['a','b'.'c'])**
+  + 變數[start:end] : 取從start剄end
+  + 變數[:n] : 取前n名
+  + 變數[:-n] : 取前n名,不取後n項
+  + 變數[n:] : 取n項到最後
+  + 變數[-n:] : 不取前n名,取後n項
+  + 變數[:] : 取所有元素
+  + 變數[start:end:step] : 每隔step從start到end
+  
+  [回目錄](https://github.com/SAStommy/python#目錄)
+
+# Week 4
