@@ -85,7 +85,7 @@
   + 變數[n:] : 取n項到最後
   + 變數[-n:] : 不取前n名,取後n項
   + 變數[:] : 取所有元素
-  + 變數[start:end:step] : 每隔step從start到end
+  + 變數[start : end : step] : 每隔step從start到end
   
   [回目錄](https://github.com/SAStommy/python#目錄)
 
