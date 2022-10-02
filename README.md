@@ -46,7 +46,7 @@
 ---
 
 # 作業連結區
->+ [**HW 1 : csv資料比對**]()
+>+ [**HW 1 : csv資料比對**](https://github.com/SAStommy/python/blob/main/hw01%E8%B3%87%E6%96%99%E5%B0%8D%E6%AF%94.ipynb)
 >+ **HW 2**
 >+ **HW 3**
 >+ **HW 4**
