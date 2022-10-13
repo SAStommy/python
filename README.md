@@ -31,7 +31,7 @@
 >+ [**Week 2**](https://github.com/SAStommy/python#Week-2)
 >+ [**Week 3**](https://github.com/SAStommy/python#Week-3)
 >+ [**Week 4**](https://github.com/SAStommy/python#Week-4)
->+ **Week 5**
+>+ [**Week 5**](https://github.com/SAStommy/python#Week-5)
 >+ **Week 6**
 >+ **Week 7**
 >+ **Week 8**
@@ -90,3 +90,9 @@
   [回目錄](https://github.com/SAStommy/python#目錄)
 
 # Week 4
+
++ **dict**
+
+[回目錄](https://github.com/SAStommy/python#目錄)
+
+# Week 5
