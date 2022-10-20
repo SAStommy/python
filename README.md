@@ -49,7 +49,7 @@
 >+ [**HW 1 : csv資料比對**](https://github.com/SAStommy/python/blob/main/hw01%E8%B3%87%E6%96%99%E5%B0%8D%E6%AF%94.ipynb)
 >+ [**HW 2 : json處理**](https://github.com/SAStommy/python/blob/main/hw02%20json%E8%99%95%E7%90%86.ipynb)
 > **因為資料太大不方便在github顯示,付上顯示連結**<https://nbviewer.org/github/SAStommy/python/blob/main/hw02%20json%E8%99%95%E7%90%86.ipynb>\
-> **檔案連結** : <https://drive.google.com/drive/u/0/my-drive>
+> **檔案連結** : <https://drive.google.com/file/d/1Uc0lOnzv7yhe4OUnNJ5Kc5jHkR2u_bSa/view?usp=sharing>
 >+ **HW 4**
 >+ **HW 5**
 ---
