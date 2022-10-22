@@ -47,8 +47,9 @@
 
 # 作業連結區
 >+ [**HW 1 : csv資料比對**](https://github.com/SAStommy/python/blob/main/hw01%E8%B3%87%E6%96%99%E5%B0%8D%E6%AF%94.ipynb)
->+ **HW 2**
->+ **HW 3**
+>+ [**HW 2 : json處理**](https://github.com/SAStommy/python/blob/main/hw02%20json%E8%99%95%E7%90%86.ipynb)
+> **因為資料太大不方便在github顯示,付上顯示連結**<https://nbviewer.org/github/SAStommy/python/blob/main/hw02%20json%E8%99%95%E7%90%86.ipynb>\
+> **檔案連結** : <https://drive.google.com/file/d/19OO1c8tCbG9VG9dRvl7fRSTgzo0g7IcC/view?usp=sharing>
 >+ **HW 4**
 >+ **HW 5**
 ---
