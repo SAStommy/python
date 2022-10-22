@@ -55,7 +55,7 @@
 > **如果沒法顯示,請到連結** : <https://nbviewer.org/github/SAStommy/python/blob/main/hw03%20%E7%88%AC%E8%9F%B2.ipynb>\
 > **產生的json檔** : [**sv.json**](https://github.com/SAStommy/python/blob/main/sv.json)\
 > **產生的csv檔** : [**sv.csv**](https://github.com/SAStommy/python/blob/main/sv.csv)\
-> **注:本來json不能在github中顯示,但你可以下載後看**
+> **注:json檔請在打開後按[view raw]查看,因為文件太大**
 >+ **HW 4**
 >+ **HW 5**
 ---
