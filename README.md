@@ -53,7 +53,7 @@
 > **檔案連結** : <https://drive.google.com/file/d/19OO1c8tCbG9VG9dRvl7fRSTgzo0g7IcC/view?usp=sharing>
 >+ [**HW 3 : 爬蟲**](https://github.com/SAStommy/python/blob/main/hw03%20%E7%88%AC%E8%9F%B2.ipynb)\
 > **如果沒法顯示,請到連結** : <https://nbviewer.org/github/SAStommy/python/blob/main/hw03%20%E7%88%AC%E8%9F%B2.ipynb>
-> **產生的json檔** : [**sv.json**]()
+> **產生的json檔** : [**sv.json**](https://github.com/SAStommy/python/blob/main/sv.csv)
 > ****產生的csv檔** : [**sv.csv**]()
 >+ **HW 4**
 >+ **HW 5**
