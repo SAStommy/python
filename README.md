@@ -56,8 +56,9 @@
 > **產生的json檔** : [**sv.json**](https://github.com/SAStommy/python/blob/main/sv.json)\
 > **產生的csv檔** : [**sv.csv**](https://github.com/SAStommy/python/blob/main/sv.csv)\
 > **注:json檔請在打開後按[view raw]查看,因為文件太大**
->+ **HW 4 : 文字探勘**
-> [**程式碼**]()
+>+ **HW 4 : 文字探勘**\
+> [**程式碼**](https://github.com/SAStommy/python/blob/main/%E6%96%87%E5%AD%97%E6%8E%A2%E5%8B%98.ipynb)
+> **如果沒法顯示,請到連結** : <https://nbviewer.org/github/SAStommy/python/blob/main/hw03%20%E7%88%AC%E8%9F%B2.ipynb>\
 >+ **HW 5**
 ---
 
