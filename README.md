@@ -56,7 +56,8 @@
 > **產生的json檔** : [**sv.json**](https://github.com/SAStommy/python/blob/main/sv.json)\
 > **產生的csv檔** : [**sv.csv**](https://github.com/SAStommy/python/blob/main/sv.csv)\
 > **注:json檔請在打開後按[view raw]查看,因為文件太大**
->+ **HW 4**
+>+ **HW 4 : 文字探勘**
+> [**程式碼**]()
 >+ **HW 5**
 ---
 
