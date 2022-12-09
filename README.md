@@ -64,7 +64,7 @@
 ---
 
 # 專題連結區
->+ **專題 1:**
+>+ [**專題**](https://github.com/SAStommy/python/tree/main/finalproject)
 ---
 
 # Week 1
