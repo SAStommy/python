@@ -64,7 +64,7 @@
 ---
 
 # 專題連結區
->+ [**專題**](https://youtu.be/wUO0I5zkwqI)
+>+ [**專題**](https://youtu.be/UKgAAQoWw0E)
 ---
 
 # Week 1
